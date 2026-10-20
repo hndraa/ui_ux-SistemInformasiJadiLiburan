@@ -88,7 +88,8 @@ This section presents the SI JALI interface concept and supporting system-design
 
 The authentication interface presents sign-up and login flows. The documented concept includes authentication using username and password, with Google and Facebook login options described in the prototype documentation.
 
-<img width="269" height="566" alt="image" src="https://github.com/user-attachments/assets/7552af02-d75a-457e-b22e-61b408ab5867" />
+<img width="282" height="574" alt="image" src="https://github.com/user-attachments/assets/38b348c4-a5fb-4a72-8ede-f6d2f005e890" />
+
 
 ### 3.2 Home Page and Destination Recommendations
 

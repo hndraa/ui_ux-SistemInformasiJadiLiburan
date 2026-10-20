@@ -155,7 +155,6 @@ Since this repository contains design artifacts rather than an implemented appli
 ### Project Structure
 
 ```text
-si-jali-web-ui-ux/
 ├── README.md
 ├── screenshots/
 │   ├── authentication.png

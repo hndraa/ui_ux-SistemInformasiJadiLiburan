@@ -102,43 +102,51 @@ The home page presents destination recommendations, including nearby destination
 
 The discovery interface allows users to explore destinations by category and search for destinations using keywords.
 
-![SI JALI Destination Discovery](screenshots/destination-discovery.png)
+<img width="279" height="572" alt="image" src="https://github.com/user-attachments/assets/5be90d66-30e5-4f84-af33-dfbaec4beae8" />
+
+<img width="281" height="572" alt="image" src="https://github.com/user-attachments/assets/066663dd-2537-490d-9ed8-d02468847a35" />
 
 ### 3.4 Destination Details
 
 The destination detail page presents information such as destination images, descriptions, facilities, weather conditions, distance, estimated travel time, and visitor-density indicators.
 
-![SI JALI Destination Details](screenshots/destination-details.png)
+<img width="278" height="574" alt="image" src="https://github.com/user-attachments/assets/9451ae84-31b9-4019-ac97-3810f69e2b6d" />
+
 
 ### 3.5 Maps and Navigation
 
 The proposed navigation flow allows users to open Google Maps directions from a selected destination.
 
-![SI JALI Maps and Navigation](screenshots/maps-navigation.png)
+<img width="279" height="568" alt="image" src="https://github.com/user-attachments/assets/0fe1eebe-9757-44a5-a4ba-1e3188f3857c" />
+
 
 ### 3.6 Ratings and Reviews
 
 The review interface supports the presentation of ratings, comments, and images submitted by users to help other visitors evaluate destinations.
 
-![SI JALI Ratings and Reviews](screenshots/ratings-reviews.png)
+<img width="278" height="570" alt="image" src="https://github.com/user-attachments/assets/62779762-bbf9-49b7-b43a-74236f7a7fec" />
+
 
 ### 3.7 User Profile and Settings
 
 The profile section includes profile editing, travel history, bookmarks, and logout. The settings section provides access to help and about-us information.
 
-![SI JALI User Profile](screenshots/user-profile.png)
+<img width="279" height="574" alt="image" src="https://github.com/user-attachments/assets/9c4da79f-3ce5-49b9-b854-05e48a1d59ec" />
+
 
 ### 3.8 Use Case Diagram
 
 The use case diagram documents interactions between users, destination managers, and administrators, including destination discovery, viewing details, submitting reviews, and managing destination information.
 
-![SI JALI Use Case Diagram](screenshots/use-case-diagram.png)
+<img width="573" height="424" alt="image" src="https://github.com/user-attachments/assets/efea27ab-3b1a-4a46-a158-ad855e148503" />
+
 
 ### 3.9 Entity Relationship Diagram (ERD)
 
 The ERD describes the proposed data entities and their relationships, including users, administrators, destination managers, reports, and tourist destinations.
 
-![SI JALI Entity Relationship Diagram](screenshots/erd.png)
+<img width="1229" height="469" alt="image" src="https://github.com/user-attachments/assets/ba4f40e2-c809-43dd-86fa-8a64a27c168b" />
+
 
 ### Results
 

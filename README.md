@@ -95,7 +95,8 @@ The authentication interface presents sign-up and login flows. The documented co
 
 The home page presents destination recommendations, including nearby destinations, popular destinations, and themed recommendations. It provides navigation to the main sections of the website.
 
-![SI JALI Home Page](screenshots/home-page.png)
+<img width="283" height="572" alt="image" src="https://github.com/user-attachments/assets/a11a86e0-1f5c-4315-9d8b-57e6da0ace95" />
+
 
 ### 3.3 Destination Discovery and Search
 

@@ -198,7 +198,7 @@ git clone [YOUR_GITHUB_REPOSITORY_URL]
 **Step 2 — Open the project folder**
 
 ```bash
-cd si-jali-web-ui-ux
+cd ui_ux-SistemInformasiJadiLiburan
 ```
 
 **Step 3 — Review the documentation**
